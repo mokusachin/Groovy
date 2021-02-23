@@ -1,0 +1,1 @@
+## rel/4.27.0-20210218065051\n### Fix\n -  Revert SEC-910(#2864)\n### Feature\n -  Add email verified flag to custom IAS config(#2865)\n
